@@ -7,3 +7,7 @@
 .sticky-header.elementor-sticky--effects {
     top: 0 !important;
 }
+
+
+### Auto slide animation code
+
